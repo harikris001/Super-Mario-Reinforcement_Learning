@@ -9,7 +9,7 @@
 * Pytorch 1.13
 
 ## Setting Up Pytorch
-_I would recoomend you to check official Pytorch website_
+_I would recoomend you to check official Pytorch website_<br>
 Pytorch website: [`pytorch`](https://pytorch.org/get-started/locally/)
 
 ## Creating Virtual Environment:
