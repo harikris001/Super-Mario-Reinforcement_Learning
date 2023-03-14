@@ -52,5 +52,9 @@ Run the cells and wait for it to complete.
 |Sl.NO            |10    |11    |
 |Total Steps      |5M    |5.5M  |
 |Completed Level  |False |False |
+
+
+
+<br>
 **I have attached the Pre trained models u can resume training using these model and save the result**<br>
 **The best model during my training was 4M model so i have attached that**
