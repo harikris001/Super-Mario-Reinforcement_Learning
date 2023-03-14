@@ -55,6 +55,6 @@ Run the cells and wait for it to complete.
 
 
 
-<br>
+
 **I have attached the Pre trained models u can resume training using these model and save the result**<br>
 **The best model during my training was 4M model so i have attached that**
