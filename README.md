@@ -27,7 +27,7 @@ to deactivte just type _deactivate_ in cmd
 After installing Ipykernal run the following:<br>
 ```python -m ipykernal install --user --name=mario```<br>
 ##### _note: the name of kernel should be same as venv name_
-## Trainig the Agent
+## Training the Agent
 Either clone my repo or download the zip or copy paste the code and run them<br>
 Github clone Link: https://github.com/harikris001/Super-Mario-Reinforcement_Learning.git <br>
 Run the cells and wait for it to complete.
