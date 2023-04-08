@@ -25,7 +25,7 @@ activate your virtual env using following:<br>
 to deactivte just type _deactivate_ in cmd
 ## Creating a New kernel in Jupyter Notebook
 After installing Ipykernal run the following:<br>
-```python -m ipykernal install --user --name=mario```<br>
+```python -m ipykernel install --user --name=mario```<br>
 ##### _note: the name of kernel should be same as venv name_
 ## Training the Agent
 Either clone my repo or download the zip or copy paste the code and run them<br>
